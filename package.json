@@ -1,6 +1,6 @@
 {
   "name": "is-wds-csm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Is the string WDS?",
   "main": "index.js",
   "scripts": {
